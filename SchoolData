@@ -3,5 +3,8 @@
 void main()
 {
 int a;
+int c;
+int b;
+int d'
 printf("hello Maau");
 }
